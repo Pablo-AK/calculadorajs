@@ -1,0 +1,98 @@
+
+.corpo{
+    background-color: #C4C4C4;
+    width: 370px;
+    height: 580px;
+    border-radius: 10px;
+}
+
+.display{
+    position: relative;
+    width: 330px;
+    height: 100px;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #666666;
+}
+
+
+ .btn-8 , .btn-7 , .btn-9 , .btn-1 , .btn-2, .btn-3 , .btn-4 ,
+ .btn-5 , .btn-6 , .btn-0, .btn-ponto , .btn-div, .btn-sub , .btn-multi, .btn-porcento,.btn-igual, .btn-ce, .btn-ac {
+    height: 50px;
+    width: 50px;
+    margin: 3px;
+    border: 0;
+
+    
+}
+.btn-8 , .btn-7 , .btn-9 , .btn-1 , .btn-2, .btn-3 , .btn-4 ,
+ .btn-5 , .btn-6 , .btn-0, .btn-ponto{
+     background-color: #17CFAB;
+     font-weight: bold;
+     font-size: 24px;
+     color: #ffffff;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+ }
+
+ .btn-div, .btn-sub , .btn-multi , .btn-soma , .btn-porcento, .btn-igual, .btn-ce, .btn-ac{
+     background-color: #666666;
+     color: #17CFAB;
+     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+     font-weight: bold;
+     font-size: 24px;
+ }
+
+ .btn-soma{
+     height: 106px;
+     width: 50px;
+     margin: 3px;
+     border: 0;
+ }
+
+/*.btn-igual{
+    margin: 3px;
+    background-color: #17CFAB;
+    color: #ffffff;
+    border: 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 100%;
+    height: 50px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.btn-ce, .btn-ac{
+    height: 70px;
+    width: 70px;
+    background-color: #666666;
+    font: bold ;
+    font-size: 24px;
+    color: #17CFAB;
+    border: 0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-weight: bold;
+}
+*/
+
+
+
+input{
+    text-align: end;
+    font-size: 30px;
+    color: #666666;
+    font-weight: bold;
+}
+
+button:focus{
+    box-shadow: none;
+    border: 0 none;
+    outline: 0;
+}
+
+.displayCalc{
+    color: #666666;
+    font-size: 24px;
+    font-weight: bold;
+}
