@@ -1,3 +1,4 @@
+<img src="/assets/images/calculadorajs.jpg" alt="Imagem da Calculadora"/>
 # Primeiro Projeto
 
 * Calculadora feita para por em prática  conceitos ensinado no curso da Hcode de JS 
