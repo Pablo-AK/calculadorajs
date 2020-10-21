@@ -18,8 +18,8 @@
 
  .btn-8 , .btn-7 , .btn-9 , .btn-1 , .btn-2, .btn-3 , .btn-4 ,
  .btn-5 , .btn-6 , .btn-0, .btn-ponto , .btn-div, .btn-sub , .btn-multi, .btn-porcento,.btn-igual, .btn-ce, .btn-ac {
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     margin: 3px;
     border: 0;
 
@@ -43,12 +43,14 @@
  }
 
  .btn-soma{
-     height: 106px;
-     width: 50px;
+     height: 126px;
+     width: 60px;
      margin: 3px;
      border: 0;
  }
-
+.row {
+    margin: 0px !important;
+}
 /*.btn-igual{
     margin: 3px;
     background-color: #17CFAB;
